@@ -1,0 +1,336 @@
+Date of Encounter: Simulated Consultation (PriMock57)
+Consultation ID: day2_consultation03
+
+PATIENT day2_consultation03
+Hello?
+
+DOCTOR day2_consultation03
+Hi there. Good morning!
+
+PATIENT day2_consultation03
+Hi. <INAUDIBLE_SPEECH/>. Nice to meet you. Hello.
+
+DOCTOR day2_consultation03
+Hello. I, I'm Doctor <INAUDIBLE_SPEECH/>. Nice to see you.
+
+DOCTOR day2_consultation03
+Hi. Um, so, before we start your appointment, could I confirm your full name and date of birth, if that's OK?
+
+PATIENT day2_consultation03
+Uh, yeah. Uh, Mary Richards. Uh, and my, I'm forty years old. So.
+
+DOCTOR day2_consultation03
+You're <INAUDIBLE_SPEECH/> OK, fine. So, you're  you're forty years old, you said, yeah?
+
+PATIENT day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+Perfect, OK. Um, are you in a private place where you're OK to speak at the moment?
+
+PATIENT day2_consultation03
+Yep.
+
+DOCTOR day2_consultation03
+OK, great. Um, so how can I help you today?
+
+PATIENT day2_consultation03
+Um, so, just been having some, um, problems with my hearing, I can't really hear very well, and my , noticed that my face has been feeling a bit numb recently.
+
+DOCTOR day2_consultation03
+Right, OK. OK. And how long has this been going on for?
+
+PATIENT day2_consultation03
+Um, it's been, it's been a few weeks now. Um, been about three weeks or something.
+
+DOCTOR day2_consultation03
+Right, OK. And, is this just on one side, or both sides?
+
+PATIENT day2_consultation03
+Just one side, just on my left side, I've noticed that the hearing's kind of gone down a bit.
+
+DOCTOR day2_consultation03
+Right, OK. And  your face feeling numb, where exactly is that? Which part of your face? Can you, can you show me with your finger?
+
+PATIENT day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+PATIENT day2_consultation03
+Yeah, so again it's the left side, it's kind of like around my left ear, and kind of, along here. So like, my jawline's just all feeling a bit numb round here.
+
+DOCTOR day2_consultation03
+Right, OK. OK. Um, has anything else happened, um, in this time? Any other symptoms you have at all?
+
+PATIENT day2_consultation03
+Not that I, not that I've noticed, .
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+PATIENT day2_consultation03
+I think, occasionally noticed a, ringing in my ear. Um.
+
+DOCTOR day2_consultation03
+Some, some ringing in your ear. OK.
+
+PATIENT day2_consultation03
+, yeah it's <INAUDIBLE_SPEECH/>.
+
+DOCTOR day2_consultation03
+Sure, OK. Um, and um, have you had any weakness or numbness, down the, in the rest of the body at all?
+
+PATIENT day2_consultation03
+No, no, no, no, nothing like that.
+
+DOCTOR day2_consultation03
+OK. Have you had any difficulty swallowing?
+
+PATIENT day2_consultation03
+No.
+
+DOCTOR day2_consultation03
+And, have you had any difficulty speaking?
+
+PATIENT day2_consultation03
+No, no.
+
+DOCTOR day2_consultation03
+Have you noticed any problems with your vision, at all?
+
+PATIENT day2_consultation03
+No, that's all good.
+
+DOCTOR day2_consultation03
+OK. Uh, and do you have the numbness present right now?
+
+PATIENT day2_consultation03
+Uh, yeah. It kind of, kind of, there quite often, so, all the time. So yeah, right now it feels very, doesn't feel like when I touch this side of my face.
+
+DOCTOR day2_consultation03
+Sure. Sure, OK. Alright, um, just going back to the kind of <INAUDIBLE_SPEECH/> feeling in, in the ear, um, do you have any discharge coming from that ear at all?
+
+PATIENT day2_consultation03
+No, nothing, nothing coming out.
+
+DOCTOR day2_consultation03
+K. Any pain in the ear, or from the ear?
+
+PATIENT day2_consultation03
+Uh, no, don't think so.
+
+DOCTOR day2_consultation03
+Right, OK. And um, have you had any fever at all?
+
+PATIENT day2_consultation03
+No, nothing like that.
+
+DOCTOR day2_consultation03
+And, do you, um, have any itchiness in the ear?
+
+PATIENT day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+Do you use cotton  buds to kind of clean your ears out?
+
+PATIENT day2_consultation03
+Pardon? Ohh, no, no, no, don't use cottons buds,  like that.
+
+DOCTOR day2_consultation03
+No. Alright. OK. Alright. Um,  need to, need to ask a few other general questions. Um, do you have any other illnesses at all?
+
+PATIENT day2_consultation03
+Um, I've, well I've got kind of, been told I have polyps in my nose in the past and, occasionally get them kind of <INAUDIBLE_SPEECH/>.
+
+PATIENT day2_consultation03
+Um, that, that's all fine and, you know I take a Rennie's if I need to, and if my nose polyps are playing up I've got a spray. Um.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+PATIENT day2_consultation03
+Other than that I think they said, ages ago, I had something called, can't quite remember but, labyrinthitis, something like that, but again, nothing, nothing ongoing.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+Sure. Sure, OK. So, are you on any regular medication? You mentioned the spray for your nose.
+
+PATIENT day2_consultation03
+Yeah, so, no, uh, I only take the, spray for my nose when I need it for, and um, sometimes take  like Rennies, but I just get that from the chemist.
+
+DOCTOR day2_consultation03
+Sure.  and, and the spray for your nose, where do you get that from? Is that from a doctor?
+
+PATIENT day2_consultation03
+Uh, yeah, they gave me a prescription ages ago.
+
+DOCTOR day2_consultation03
+Yeah. Do you remember the name of the spray, at all?
+
+PATIENT day2_consultation03
+Unfortunately I don't, sorry.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/> that's alright. That's alright. Uh, and you're not on any other medication at all?
+
+PATIENT day2_consultation03
+No.
+
+DOCTOR day2_consultation03
+No, OK. Do you have any , any allergies to any medication?
+
+PATIENT day2_consultation03
+Uh, no just Latex.
+
+DOCTOR day2_consultation03
+Latex, OK. Alright, that's good to know. Um, and um, in terms of your family, are there any kind of illnesses within your family at all?
+
+PATIENT day2_consultation03
+My brother had, Neurofibromatosis, I think it is. Um, other than that everyone else is OK.
+
+DOCTOR day2_consultation03
+Right, OK.
+
+DOCTOR day2_consultation03
+OK, good. That's good. Um, and in, in terms of your own kind of background now, are you, are you working at the moment?
+
+PATIENT day2_consultation03
+Yeah, so I'm a, I'm a jockey, um, but, because of all the kind of, these symptoms I've been getting, especially sometimes when I get a ringing, I can feel a bit dizzy. Ohh, I've just had to do far less training.
+
+PATIENT day2_consultation03
+So, kind of beginning to, yeah, impacting work, um, a little bit now.
+
+DOCTOR day2_consultation03
+OK. So you have to excuse my ignorance, you mean, jockey like with horses? Is that what you're talking about? Yeah. Alright, OK. Fine. Um, great. Um, uh, and, uh, do you live alone?
+
+PATIENT day2_consultation03
+Yeah, yeah.
+
+PATIENT day2_consultation03
+Um, I, uh, live with my partner.
+
+DOCTOR day2_consultation03
+Uh, OK. Right, um, do you have any pets at all at home?
+
+PATIENT day2_consultation03
+No, no pets.
+
+DOCTOR day2_consultation03
+OK, fine. OK so, alright. Um, Is there anything else that you wanted to tell me about what's been  going on, recently?
+
+PATIENT day2_consultation03
+Uh, no, just like, like I said, like the ringing um, occasionally and, when I get that I can sometimes feel a bit dizzy but, the main thing is really the, lack of hearing, and the numbness that's got me  like,  yeah, no idea what's going on there.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+OK, fine. Alright. Um,
+
+DOCTOR day2_consultation03
+So, <INAUDIBLE_SPEECH/>, what I think , go on.
+
+PATIENT day2_consultation03
+I mean, there was just like, there was one thing I think just, 'cause I can panic and you can look online, <INAUDIBLE_SPEECH/> get a bit, frantic.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+PATIENT day2_consultation03
+, I guess what I'm trying to think is, you know, is there something particularly serious that, you know, will need to be sorted and.
+
+PATIENT day2_consultation03
+Obviously, really, anything can just make you really frantic <INAUDIBLE_SPEECH/>. Hopefully nothing , so serious I will die from it, I don't know I just, I think got myself in a pickle.
+
+DOCTOR day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+OK.  so um, uh, obviously we're limited in terms of assessment via the video, uh, portal.
+
+PATIENT day2_consultation03
+Mmm.
+
+DOCTOR day2_consultation03
+ um, from what you've told me, this doesn't seem to be you know, anything um, that you're gonna die from. However, I would like you to be assessed in a clinic today.
+
+PATIENT day2_consultation03
+OK.
+
+DOCTOR day2_consultation03
+OK? I ,would like you to come to one of my clinics. I would like a GP to assess you. <INAUDIBLE_SPEECH/> what you're, what you're describing might be something called Bell's Palsy. OK? Um,
+
+PATIENT day2_consultation03
+OK.
+
+PATIENT day2_consultation03
+Yeah.
+
+DOCTOR day2_consultation03
+We can go into that, explaining what that is, if um, if that's confirmed on, on physical examination. But um, that's not usually a  life-threatening problem.
+
+PATIENT day2_consultation03
+OK.
+
+DOCTOR day2_consultation03
+But, um, part of the reason why I'd like you to come in, it's just that we can do a, a what we call a, a neurological examination just to make sure there's nothing else going on, and confirm  that might be the diagnosis. Have a look, have a look inside the ear, see if there's any, , anything to see within the ear.
+
+PATIENT day2_consultation03
+OK.
+
+PATIENT day2_consultation03
+<INAUDIBLE_SPEECH/>
+
+DOCTOR day2_consultation03
+So, um, um, so, in answer to your question. No, I don't think that you need to worry about that, I ,  think you know , preliminarily I can, I can reassure you.
+
+PATIENT day2_consultation03
+OK.
+
+DOCTOR day2_consultation03
+However, <INAUDIBLE_SPEECH/>, in order to definitively reassure you, I, I think you need a physical examination today, OK. <INAUDIBLE_SPEECH/>, so what I wanna do, is I'm gonna send a message to our admin team, I'll ask them, to book you in for a face-to-face appointment in one of our clinics.
+
+PATIENT day2_consultation03
+Mm-hmm.
+
+PATIENT day2_consultation03
+Yeah, that's fine.
+
+PATIENT day2_consultation03
+OK.
+
+DOCTOR day2_consultation03
+Um, within Central London. OK, and then you can ring the , the support team number, I'll leave that number in your notes. And you can ring them after five minutes, and then they'll slot you in to a place that's convenient for you, OK.
+
+PATIENT day2_consultation03
+OK.
+
+PATIENT day2_consultation03
+Yeah.
+
+PATIENT day2_consultation03
+, that's fine.
+
+DOCTOR day2_consultation03
+All right. So, someone <INAUDIBLE_SPEECH/> will see you, and hopefully you will be able to reassure further but, please make sure the appointment gets done today.
+
+PATIENT day2_consultation03
+OK, yep, I will do, that's fine. Thank you very much.
+
+DOCTOR day2_consultation03
+All right then. OK. Nice to see you. Take care.
+
+PATIENT day2_consultation03
+Bye bye.
+
+DOCTOR day2_consultation03
+Bye.
+
