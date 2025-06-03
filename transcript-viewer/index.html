@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedSys Transcript Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>MedSys Transcript Viewer</h1>
+            <div class="file-upload-section">
+                <input type="file" id="fileInput" accept=".md,.txt" style="display: none;">
+                <button id="uploadBtn" class="upload-btn">Upload Transcript</button>
+                <span id="fileName" class="file-name"></span>
+            </div>
+        </header>
+
+        <div id="noFileMessage" class="no-file-message">
+            <div class="upload-prompt">
+                <div class="upload-icon">📄</div>
+                <h2>Upload a Simulation Transcript</h2>
+                <p>Select a .md or .txt file containing a MedSys simulation transcript</p>
+                <button class="upload-btn-large" onclick="document.getElementById('fileInput').click()">
+                    Choose File
+                </button>
+            </div>
+        </div>
+
+        <div id="mainInterface" class="main-interface" style="display: none;">
+            <div class="conversation-area">
+                <div class="conversation-header">
+                    <h3>Consultation</h3>
+                </div>
+                <div id="conversationContainer" class="conversation-container">
+                    <!-- Conversation bubbles will be added here -->
+                </div>
+            </div>
+
+            <div class="medsys-area">
+                <div class="medsys-header">
+                    <div class="status-indicator active"></div>
+                    <h3>MedSys</h3>
+                </div>
+                
+                <div class="medsys-displays">
+                    <div class="patient-info-pane">
+                        <div class="pane-header">Patient Information</div>
+                        <div id="patientInfoContent" class="pane-content">
+                            <div class="placeholder-text">Patient information will appear here</div>
+                        </div>
+                    </div>
+                    
+                    <div class="assessment-pane">
+                        <div class="pane-header">Assessment</div>
+                        <div id="assessmentContent" class="pane-content">
+                            <div class="placeholder-text">Assessment information will appear here</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="controls" class="controls" style="display: none;">
+            <button id="prevBtn" class="control-btn" disabled>← Previous</button>
+            <div class="progress-info">
+                <span id="stepCounter">Step 0 of 0</span>
+                <div class="progress-bar">
+                    <div id="progressFill" class="progress-fill"></div>
+                </div>
+            </div>
+            <button id="nextBtn" class="control-btn" disabled>Next →</button>
+            <button id="autoPlayBtn" class="control-btn auto-play">▶ Auto Play</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
